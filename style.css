@@ -106,9 +106,6 @@ li {
 
 .travel-card-image img:hover {
   box-shadow: 2px 2px rgba(0,0,0,0.08);
-  content: url(images/joke.jpg);
-  display: block;
-  cursor: not-allowed;
 }
 
 .travel_card-content {
